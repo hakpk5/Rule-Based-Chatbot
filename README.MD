@@ -4,11 +4,10 @@ A rule based simple chatbot designed on the motivation of handling customers in 
 
 ### At a glance.
 
-1. Home Screen
 ![Start screen](./images/start.png)
-2. Sign up Screen
+
 ![Start screen](./images/signup.png)
-3. Chat Screen
+
 ![Start screen](./images/chat.png)
 
 #### Built with:
