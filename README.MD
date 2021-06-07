@@ -13,9 +13,9 @@ Chat Screen
 
 #### Built with:
 
-> Python
-> Sqlite3
-> Tkinter
+> 1. Python
+> 2. Sqlite3
+> 3. Tkinter
 
 ##### How to run?
 
