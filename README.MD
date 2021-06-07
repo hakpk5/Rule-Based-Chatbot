@@ -17,7 +17,7 @@ Chat Screen
 > Sqlite3
 > Tkinter
 
-##### HOw to run?
+##### How to run?
 
 > `git clone https://github.com/hakpk5/Rule-Based-Chatbot.git Run database.py, and then run main.py`
 
