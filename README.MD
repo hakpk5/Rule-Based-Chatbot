@@ -19,8 +19,8 @@ Chat Screen
 
 ##### How to run?
 
-> 1. `git clone https://github.com/hakpk5/Rule-Based-Chatbot.git 
-> 2.  Run database.py, and then run main.py`
+> 1. `git clone https://github.com/hakpk5/Rule-Based-Chatbot.git`
+> 2.  `Run database.py, and then run main.py`
 
 ###### Things to have beforehand.
 
